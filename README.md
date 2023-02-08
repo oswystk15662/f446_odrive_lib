@@ -1,4 +1,4 @@
-# F446Template
+# F446_Mbed_Template
 
 ## これはなに？
 
